@@ -1,13 +1,10 @@
-# FRONT-END（前端知识整理）
+# HTML
 
-##HTML
-
-### 1.文档模式
-####Doctype
-####严格模式
-####混杂模式
+### 1.文档解析
+- [文档解析——Doctype、严格&混杂模式、浏览器&文档模式](https://github.com/Monkey626/front-end/issues/27)
 
 ### 2.HTML语义化
+- [HTML语义化](https://github.com/Monkey626/front-end/issues/35)
 
 ### 3.HTML5新特性
 
@@ -20,17 +17,20 @@
 
 
 
-##  CSS
+# CSS
 
-### 1.元素
-#### 行内元素
-#### 块级元素
+## 元素
+- [元素](https://github.com/Monkey626/front-end/issues/28)
 
-### 2.盒子模型
-#### 标准盒子
-#### IE盒子
+## 选择符
+- [CSS选择符](https://github.com/Monkey626/front-end/issues/30)
 
-### 3.CSS定位
+## 盒模型
+- [盒模型](https://github.com/Monkey626/front-end/issues/24)
+
+
+
+## CSS定位
 
 
 ### 4.CSS布局
@@ -50,12 +50,16 @@
 #### CSS Sprites
 
 ### 8.CSS reset
+- [CSS reset](https://github.com/Monkey626/front-end/issues/34)
 
 ### 9.兼容
 #### 优雅降级 & 渐进增强
 #### CSS Hack
 
-### 10.区别
+### 10.动画
+- [CSS3动画与JS动画的区别](https://github.com/Monkey626/front-end/issues/36)
+
+### 11.区别
 #### display & visibility
 #### Repaint & Reflow
 
@@ -78,7 +82,9 @@
 ####闭包
 
 ### 4.对象
-####创建对象
+#### 创建对象
+#### 属性
+- [属性](https://github.com/Monkey626/front-end/issues/32)
 ####原型 & 原型链
 ####继承
 
@@ -95,13 +101,17 @@
 #### 客户端数据存储
 ##### Cookie
 ##### userData(IE用户数据)
-##### Web Storage
+- [客户端数据存储——Web Storage](https://github.com/Monkey626/front-end/issues/33)
 
 #### 服务器端数据存储
 
 ### 11.异步编程
 #### Promise
 #### 发布/订阅
+
+## 浏览器
+- [客户端检测](https://github.com/Monkey626/front-end/issues/23)
+- [浏览器](https://github.com/Monkey626/front-end/issues/31)
 
 ###12.设计模式
 
@@ -136,10 +146,6 @@
 #### CDN
 
 
-##浏览器
-### 1.浏览器渲染
-### 2.浏览器内核
-### 3.浏览器兼容
 
 
 ## 性能
