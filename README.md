@@ -28,8 +28,9 @@
 ### 样式
 - [CSS层叠](https://github.com/Monkey626/front-end/issues/45)
 - [CSS堆叠——z-index](https://github.com/Monkey626/front-end/issues/46)
-#### 选择符
-- [CSS选择符](https://github.com/Monkey626/front-end/issues/30)
+
+- #### 选择符
+  - [CSS选择符](https://github.com/Monkey626/front-end/issues/30)
 
 
 ### 盒模型
@@ -41,20 +42,20 @@
 - [CSS定位——Position](https://github.com/Monkey626/front-end/issues/25)
 
 ### CSS布局
-#### 浮动
-- [CSS布局——浮动](https://github.com/Monkey626/front-end/issues/26)
+- #### 浮动
+  - [CSS布局——浮动](https://github.com/Monkey626/front-end/issues/26)
 
-#### 居中
-- [CSS布局——居中](https://github.com/Monkey626/front-end/issues/19)
+- #### 居中
+  - [CSS布局——居中](https://github.com/Monkey626/front-end/issues/19)
 
-#### 多栏布局
-- [CSS布局——等高列布局](https://github.com/Monkey626/front-end/issues/20)
+- #### 多栏布局
+  - [CSS布局——等高列布局](https://github.com/Monkey626/front-end/issues/20)
 
-#### flexbox
-- [CSS布局——flexbox](https://github.com/Monkey626/front-end/issues/18)
+- #### flexbox
+  - [CSS布局——flexbox](https://github.com/Monkey626/front-end/issues/18)
 
-#### BFC
-- [BFC（Block formatting contexts）](https://github.com/Monkey626/front-end/issues/10)
+- #### BFC
+  - [BFC（Block formatting contexts）](https://github.com/Monkey626/front-end/issues/10)
 
 
 ### CSS3
